@@ -33,6 +33,10 @@ Buzz
 ```
     
 
+## Install
+Install all dependencies with:
+- `npm i`
+
 ## Usage
 Run the tests with:
 - `npm run test:once` => if you want ro run the tests only once
